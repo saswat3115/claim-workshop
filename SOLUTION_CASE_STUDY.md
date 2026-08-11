@@ -130,14 +130,7 @@ Edit, split, merge, and delete are confirmed before applying.
 
 This is safer because these actions change document structure.
 
-## 9. RBAC
-
-Role-based access is handled in the frontend UI for display and action control.
-
-- show/hide unavailable actions
-- disable actions when needed
-
-The backend remains the source of truth for authorization.
+## 9. RBAC (Not implemented as there is no BE)
 
 ## 10. Performance Strategy
 
