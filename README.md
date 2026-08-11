@@ -135,11 +135,6 @@ Use this quick flow during the interview demo:
 - Review the confirmation prompt.
 - Confirm to permanently remove the selected pages.
 
-## RBAC
-
-Frontend permissions control the UX by showing or hiding actions and disabling unavailable operations.
-
-The backend remains the source of truth for authorization.
 
 ## Performance and Scalability
 
