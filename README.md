@@ -8,7 +8,7 @@ The application focuses on a scalable UI for large datasets and document-heavy w
 
 - React + TypeScript
 - Vite
-- Tailwind CSS
+- Tailwind CSS (For faster dev and consistent and proper BEM model css)
 - Zustand for client/UI state
 - TanStack Query for server state, caching, and mutations
 - Repository pattern for API/backend abstraction
